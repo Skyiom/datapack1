@@ -1,1 +1,1 @@
-summon minecart:pig ~ ~ ~
+summon minecraft:pig ~ ~ ~
