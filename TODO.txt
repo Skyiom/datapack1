@@ -1,6 +1,9 @@
 
 To do things in order for my sake:
  
+!! 0.9 Learn how to use scoreboards in datapcks
+
+
 1. Add mobs to datapack 
 2. Make map with Terralith and Tectonic 3000x3000
 3. Add custom items to this shit
